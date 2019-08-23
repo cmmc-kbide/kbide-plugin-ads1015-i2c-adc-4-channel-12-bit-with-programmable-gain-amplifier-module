@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-ads1015-i2c-adc-4-channel-12-bit-with-programmable-gain-amplifier-module",
+  "title": "ads1015-i2c-adc-4-channel-12-bit-with-programmable-gain-amplifier-module",
+  "keywords": "ads1015-i2c-adc-4-channel-12-bit-with-programmable-gain-amplifier-module, esp32, esp8266, arduino",
+  "description": "ads1015-i2c-adc-4-channel-12-bit-with-programmable-gain-amplifier-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-ads1015-i2c-adc-4-channel-12-bit-with-programmable-gain-amplifier-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-ads1015-i2c-adc-4-channel-12-bit-with-programmable-gain-amplifier-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
